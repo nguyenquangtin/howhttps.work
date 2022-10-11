@@ -28,11 +28,11 @@ home:
 
 # Episode fragments for /episodes
 fragment:
-  ep1: "Start reading here. If there is only one thing that you take away from this comic, let it be this one."
-  ep2: "To understand how HTTPS works, you have to know how symmetric and asymmetric key encryption works. It sounds like big words, but really it's not."
-  ep3: "When you browse to a HTTP secure site, your browser and the server where it connects to have a secret handshake. We break this down and bring it into the real world so you can greet your friends with the secret handshake."
-  ep4: "It's easy to confuse HTTPS, SSL, and TLS. We often use these terms interchangeably. Let's talk about each of them with a bit of hiss-tory."
-  ep5: "What do they do? Why do we need them? How do they validate certificates? So many questions to answer in this last chapter of the comic!"
+  ep1: "Bắt đầu đọc ở đây. Nếu chỉ có một thứ mà bạn học được từ quyển truyện tranh này, hãy để nó là thứ này."
+  ep2: "Để hiểu HTTPS hoạt động như thế nào, bạn phải biết mã hóa khóa đối xứng và không đối xứng hoạt động như thế nào. Nó nghe có vẻ \"đao to búa lớn \", nhưng thực sự không phải vậy."
+  ep3: "Khi bạn lướt đến một trang web bảo mật HTTP, trình duyệt của bạn và máy chủ nơi nó kết nối sẽ có một sự bắt tay bí mật. Chúng ta sẽ phá vỡ điều này và mang nó ra ánh sáng để mọi người có thể gặp những người bạn bí mật này."
+  ep4: "Rất dễ nhầm lẫn giữa HTTPS, SSL và TLS. Chúng ta thường sử dụng các thuật ngữ này thay thế cho nhau. Hãy nói về mỗi trong số chúng với một chút lịch sử."
+  ep5: "Chúng làm gì? Tại sao chúng ta cần chúng? Làm cách nào để chúng xác nhận chứng chỉ? Rất nhiều câu hỏi cần trả lời trong chương cuối cùng của truyện tranh này!"
 
 # Episodes
 ep1:

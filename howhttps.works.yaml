@@ -18,13 +18,13 @@ nav:
 
 # Home page
 home:
-  title: "How HTTPS Works"
-  certificat_cta: "Start reading"
-  subtitle: "How HTTPS works ...in a comic!"
-  p1: "Have you ever wondered why a green lock icon appears on your browser URL bar? And why is it important? We did too, and this comic is for you!"
-  p2: "Follow the adventures of Certificat, Browserbird, and Compugter as they explain why HTTPS is crucial for the future of the web and how it all works together."
-  p3: "Don't let the bad crabs get you (you'll know what we mean in the comic). Get to know HTTPS and why it is essential to your privacy."
-  small_cta: "Start reading now"
+  title: "HTTPS hoạt động như thế nào"
+  certificat_cta: "Bắt đầu đọc"
+  subtitle: "HTTPS hoạt động như thế nào ...trong truyện tranh!"
+  p1: "Bạn đã từng bao giờ thắc mắc tại sao có cái ổ khoá màu xanh trên thanh địa chỉ trình duyệt web của bạn? Và tại sao nó lại quan trọng? Chúng tôi cũng từng như vậy, và truyện tranh này sẽ giải thích cho bạn!"
+  p2: "Theo dõi những cuộc phiêu lưu của Certificat, Browserbird, và Compugter khi chúng giải thích tại sao HTTPS lại quan trọng đối với tương lai của web và cách tất cả hoạt động cùng nhau."
+  p3: "Đừng để những con cua xấu xa bắt được bạn(bạn sẽ hiểu điều này khi đọc tới đoạn này). Tìm hiểu về HTTPS và tại sao nó cần thiết với quyền riêng tư của bạn."
+  small_cta: "Bắt đầu đọc ngay bây giờ"
 
 # Episode fragments for /episodes
 fragment:
